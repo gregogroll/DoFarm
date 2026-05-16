@@ -1,3 +1,4 @@
+<h1><a href="https://discord.gg/dofarm">Clique ici pour rejoindre notre communauté</a></h1>
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/9a98f53c-10dd-40c2-9ead-8be87b6dcaaf" />
 <img width="1717" height="916" alt="image" src="https://github.com/user-attachments/assets/53b921df-0b33-4eba-9b86-5684ed6dd0b8" />
 <img width="1758" height="895" alt="image" src="https://github.com/user-attachments/assets/2345f4bb-7e92-4be5-89dc-7d10d8fa504b" />
